@@ -6,7 +6,7 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 
 ##### Currently Working On...
 * [mp4rs](https://github.com/alfg/mp4rs) &mdash; MP4 reader + writer in [Rust](https://www.rust-lang.org/)! :crab:
-* [FFmpeg Commander](https://github.com/alfg/ffmpeg-commander) &mdash; [FFmpeg](ffmpeg.org/) Command Builder in [Vue](https://vuejs.org/)!
+* [FFmpeg Commander](https://github.com/alfg/ffmpeg-commander) &mdash; [FFmpeg](https://ffmpeg.org/) Command Builder in [Vue](https://vuejs.org/)!
 * [Open Encoder](https://github.com/alfg/openencoder) &mdash; Open Source Cloud Encoding System in [Go](https://golang.org/) + [Vue](https://vuejs.org/).
 
 I will also be running another project for [:jack_o_lantern: Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/) participants! Check back for updates. :computer:

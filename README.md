@@ -5,10 +5,12 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 🚀 Check out some of my open source projects!
 
 ##### Currently Working On...
-* [mp4-inspector](https://github.com/alfg/mp4-inspector) &mdash; A Web-based MP4 File Inspector. Powered by [Rust](https://www.rust-lang.org/), [Vue.js](https://vuejs.org/) and [Web Assembly](https://webassembly.org/)! 🦀
-* [mp4rs](https://github.com/alfg/mp4rs) &mdash; MP4 reader + writer in [Rust](https://www.rust-lang.org/)! :crab:
-* [FFmpeg Commander](https://github.com/alfg/ffmpeg-commander) &mdash; [FFmpeg](https://ffmpeg.org/) Command Builder in [Vue.js](https://vuejs.org/)!
-* [Open Encoder](https://github.com/alfg/openencoder) &mdash; Open Source Cloud Encoding System in [Go](https://golang.org/) + [Vue.js](https://vuejs.org/).
+| Project | Description |
+| --- | --- |
+| [mp4-inspector](https://github.com/alfg/mp4-inspector) | A Web-based MP4 File Inspector. Powered by [Rust](https://www.rust-lang.org/), [Vue.js](https://vuejs.org/) and [Web Assembly](https://webassembly.org/)! 🦀 |
+| [mp4rs](https://github.com/alfg/mp4rs) | MP4 reader + writer in [Rust](https://www.rust-lang.org/)! :crab: |
+| [FFmpeg Commander](https://github.com/alfg/ffmpeg-commander) | [FFmpeg](https://ffmpeg.org/) Command Builder in [Vue.js](https://vuejs.org/)! |
+| [Open Encoder](https://github.com/alfg/openencoder) | Open Source Cloud Encoding System in [Go](https://golang.org/) + [Vue.js](https://vuejs.org/). |
 
 **🎥 Are you a video developer?** Check out more of my open source [video tools](https://alfg.github.io/video-tools/).
 

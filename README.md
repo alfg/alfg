@@ -15,7 +15,4 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 **🎥 Are you a video developer?** Check out more of my open source [video tools](https://alfg.github.io/video-tools/).
 
 
-
-I will also be running another project for [:jack_o_lantern: Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/) participants! Check back for updates. :computer:
-
-See [Thank You Hacktoberfest 2019!](https://github.com/alfg/opendrinks/releases/tag/v1.0.0) for last year's project, 🍸 [OpenDrinks](https://opendrinks.io)
+Looking for [:jack_o_lantern: Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/) projects? Check out 🍸 [OpenDrinks](https://github.com/alfg/opendrinks)!

@@ -13,6 +13,3 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | [Open Encoder](https://github.com/alfg/openencoder) | Open Source Cloud Encoding System in [Go](https://golang.org/) + [Vue.js](https://vuejs.org/). |
 
 **🎥 Are you a video developer?** Check out more of my open source [video tools](https://alfg.github.io/video-tools/).
-
-
-Looking for [:jack_o_lantern: Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/) projects? Check out 🍸 [OpenDrinks](https://github.com/alfg/opendrinks)!

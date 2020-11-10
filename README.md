@@ -2,7 +2,7 @@
 
 Open Source Software enthusiast specializing in streaming multimedia technologies, currently working as a Software Architect on the Content Engineering team at [Fandango](https://www.fandango.com/).
 
-🚀 Check out some of my open source projects!
+🚀 Check out some of my latest open source projects!
 
 ##### Currently Working On...
 | Project | Description |
@@ -12,5 +12,6 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | [FFmpeg Commander](https://github.com/alfg/ffmpeg-commander) | [FFmpeg](https://ffmpeg.org/) Command Builder in [Vue.js](https://vuejs.org/)! |
 | [Open Encoder](https://github.com/alfg/openencoder) | Open Source Cloud Encoding System in [Go](https://golang.org/) + [Vue.js](https://vuejs.org/). |
 | [FFProbe Wasm](https://github.com/alfg/ffprobe-wasm) | A Web-based FFProbe. Powered by FFmpeg, Vue and Web Assembly! |
+| [Open Drinks](https://github.com/alfg/opendrinks) | 🍸 Open Source Drinks! Add your own recipe in a pull request! |
 
 **🎥 Are you a video developer?** Check out more of my open source [video tools](https://alfg.github.io/video-tools/).

@@ -2,7 +2,7 @@
 
 Open Source Software enthusiast specializing in streaming multimedia technologies, currently working as a Software Architect on the Content Engineering team at [Fandango](https://www.fandango.com/).
 
-🎧 Creator and maintainer of [GuildBit &mdash; Free Mumble Hosting ](https://guildbit.com).
+🎧 Creator and maintainer of [GuildBit &mdash; Free Mumble Hosting](https://guildbit.com).
 
 🚀 Check out some of my latest open source projects!
 

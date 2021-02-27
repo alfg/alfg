@@ -17,3 +17,5 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 
 **🎥 Are you a video developer?** Check out more of my open source [video tools](https://alfg.github.io/video-tools/).
 
+**🍸 Looking for a drink recipe?** Check out [Open Drinks](https://opendrinks.io/)!
+

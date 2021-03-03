@@ -7,8 +7,9 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 🚀 Check out some of my latest open source projects!
 
 #### 🎥 Multimedia Projects
-| 🌎 Web |  |
+| Project | Description |
 | --- | --- |
+| 🌎 Web |  |
 | [MP4 Inspector](https://github.com/alfg/mp4-inspector) | A Web-based MP4 File Inspector. Powered by [Rust](https://www.rust-lang.org/), [Vue.js](https://vuejs.org/) and [Web Assembly](https://webassembly.org/)! 🦀 |
 | [FFmpeg Commander](https://github.com/alfg/ffmpeg-commander) | [FFmpeg](https://ffmpeg.org/) Command Builder in [Vue.js](https://vuejs.org/)! |
 | [FFProbe Wasm](https://github.com/alfg/ffprobe-wasm) | A Web-based FFProbe. Powered by FFmpeg, Vue and Web Assembly! |
@@ -18,7 +19,7 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | 📗 Libraries |  |
 | [mp4-rust](https://github.com/alfg/mp4-rust) | MP4 reader + writer in [Rust](https://www.rust-lang.org/)! :crab: |
 | [mp4](https://github.com/alfg/mp4) | Basic MP4 reader in Go! CLI + Golang Package for ISO/IEC 14496-12 - ISO Base Media File Format |
-| Platform |
+| 🎬 Platform | |
 | [Open Encoder](https://github.com/alfg/openencoder) | Open Source Cloud Encoding Platform in [Go](https://golang.org/) + [Vue.js](https://vuejs.org/). |
 | [widevine](https://github.com/alfg/widevine) | Golang Client for Widevine Cloud |
 | | |

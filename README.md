@@ -19,9 +19,9 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | 📗 **LIBRARIES** |  |
 | [mp4-rust](https://github.com/alfg/mp4-rust) | MP4 reader + writer Rust crate. | `Rust` |
 | [mp4](https://github.com/alfg/mp4) | MP4 reader Go package. | `Go` |
+| [widevine](https://github.com/alfg/widevine) | Golang package for Widevine Cloud. | `Go`
 | 🎬 **PLATFORM** | |
 | [Open Encoder](https://github.com/alfg/openencoder) | Open Source Cloud Encoding Platform in [Go](https://golang.org/) + [Vue.js](https://vuejs.org/). | `Go` `JavaScript` |
-| [widevine](https://github.com/alfg/widevine) | Golang package for Widevine Cloud. | `Go`
 | | |
 | 🐳 **DOCKER** |  |
 | [docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp) |  A Dockerfile for nginx-rtmp-module. | `Dockerfile` |

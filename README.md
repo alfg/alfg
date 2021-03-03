@@ -16,7 +16,7 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | [Vue Player](https://github.com/alfg/vue-player) | Adaptive Streaming Test Player | `JavaScript` |
 | [Media Cast](https://github.com/alfg/mediacast) | Google Cast - Chrome Sender & CAF Test Player | `JavaScript` |
 | | |
-| 📗 **LIBRARIES** |  |
+| 📙 **LIBRARIES** |  |
 | [mp4-rust](https://github.com/alfg/mp4-rust) | MP4 reader + writer Rust crate. | `Rust` |
 | [mp4](https://github.com/alfg/mp4) | MP4 reader Go package. | `Go` |
 | [widevine](https://github.com/alfg/widevine) | Golang package for Widevine Cloud. | `Go`

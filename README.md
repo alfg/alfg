@@ -6,7 +6,7 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 
 🚀 Check out some of my latest open source projects!
 
-#### 🎥 Multimedia Projects
+### 🎥 Multimedia Projects
 | Project | Description | Language |
 | - | - | - |
 | 🌎 **WEB** |  |

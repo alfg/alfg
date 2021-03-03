@@ -8,11 +8,11 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 
 #### 🎥 Multimedia Projects
 | Project | Description | Language |
-| --- | --- | --- |
+| --- | --- | - |
 | 🌎 **WEB** |  |
-| [MP4 Inspector](https://github.com/alfg/mp4-inspector) | A Web-based MP4 File Inspector. | `Rust` `JavaScript` `Web Aseembly` |
+| [MP4 Inspector](https://github.com/alfg/mp4-inspector) | A Web-based MP4 File Inspector. | `Rust` `JavaScript` `Wasm` |
 | [FFmpeg Commander](https://github.com/alfg/ffmpeg-commander) | [FFmpeg](https://ffmpeg.org/) Command Builder. | `JavaScript` |
-| [FFProbe Wasm](https://github.com/alfg/ffprobe-wasm) | A Web-based FFProbe. Powered by FFmpeg, Vue and Web Assembly! | `C++` `JavaScript` `Web Assembly` |
+| [FFProbe Wasm](https://github.com/alfg/ffprobe-wasm) | A Web-based FFProbe. Powered by FFmpeg, Vue and Web Assembly! | `C++` `JavaScript` `Wasm` |
 | [Vue Player](https://github.com/alfg/vue-player) | Adaptive Streaming Test Player | `JavaScript` |
 | [Media Cast](https://github.com/alfg/mediacast) | Google Cast - Chrome Sender & CAF Player for testing Media Playback | `JavaScript` |
 | | |

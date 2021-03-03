@@ -17,7 +17,7 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | [Media Cast](https://github.com/alfg/mediacast) | Google Cast - Chrome Sender & CAF Test Player | `JavaScript` |
 | | |
 | 📗 **LIBRARIES** |  |
-| [mp4-rust](https://github.com/alfg/mp4-rust) | MP4 reader + writer | `Rust` |
+| [mp4-rust](https://github.com/alfg/mp4-rust) | MP4 reader + writer for Rust! | `Rust` |
 | [mp4](https://github.com/alfg/mp4) | Basic MP4 reader in Go! | `Go` |
 | 🎬 **PLATFORM** | |
 | [Open Encoder](https://github.com/alfg/openencoder) | Open Source Cloud Encoding Platform in [Go](https://golang.org/) + [Vue.js](https://vuejs.org/). | `Go` `JavaScript` |

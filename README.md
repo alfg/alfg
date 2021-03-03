@@ -24,7 +24,7 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | [widevine](https://github.com/alfg/widevine) | Golang Client for Widevine Cloud |
 | | |
 | 🐳 **DOCKER** |  |
-| [docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp) |  A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux. |
+| [docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp) |  A Dockerfile for nginx-rtmp-module. |
 | [docker-nginx-vod](https://github.com/alfg/docker-nginx-vod) | A Dockerized NGINX build of the nginx-vod-module |
 | [docker-ffmpeg](https://github.com/alfg/docker-ffmpeg) | A Dockerfile FFmpeg from source. Built on Alpine Linux. |
 | [docker-bento4](https://github.com/alfg/docker-bento4) | A dockerized Bento4 from source. Built on Alpine Linux. |

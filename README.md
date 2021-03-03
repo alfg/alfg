@@ -10,24 +10,24 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | Project | Description | Language |
 | - | - | - |
 | 🌎 **WEB** |  |
-| [MP4 Inspector](https://github.com/alfg/mp4-inspector) | A Web-based MP4 File Inspector. | `Rust` `Wasm` |
+| [MP4 Inspector](https://github.com/alfg/mp4-inspector) | A Web-based MP4 File Inspection Tool. | `Rust` `Wasm` |
 | [FFmpeg Commander](https://github.com/alfg/ffmpeg-commander) | [FFmpeg](https://ffmpeg.org/) Command Builder. | `JavaScript` |
 | [FFProbe Wasm](https://github.com/alfg/ffprobe-wasm) | A Web-based FFProbe. | `C++` `Wasm` |
 | [Vue Player](https://github.com/alfg/vue-player) | Adaptive Streaming Test Player | `JavaScript` |
 | [Media Cast](https://github.com/alfg/mediacast) | Google Cast - Chrome Sender & CAF Test Player | `JavaScript` |
 | | |
 | 📗 **LIBRARIES** |  |
-| [mp4-rust](https://github.com/alfg/mp4-rust) | MP4 reader + writer for Rust! | `Rust` |
-| [mp4](https://github.com/alfg/mp4) | Basic MP4 reader in Go! | `Go` |
+| [mp4-rust](https://github.com/alfg/mp4-rust) | MP4 reader + writer Rust crate. | `Rust` |
+| [mp4](https://github.com/alfg/mp4) | MP4 reader Go package. | `Go` |
 | 🎬 **PLATFORM** | |
 | [Open Encoder](https://github.com/alfg/openencoder) | Open Source Cloud Encoding Platform in [Go](https://golang.org/) + [Vue.js](https://vuejs.org/). | `Go` `JavaScript` |
-| [widevine](https://github.com/alfg/widevine) | Golang Client for Widevine Cloud | `Go`
+| [widevine](https://github.com/alfg/widevine) | Golang package for Widevine Cloud. | `Go`
 | | |
 | 🐳 **DOCKER** |  |
 | [docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp) |  A Dockerfile for nginx-rtmp-module. | `Dockerfile` |
-| [docker-nginx-vod](https://github.com/alfg/docker-nginx-vod) | A Dockerized NGINX build of the nginx-vod-module | `Dockerfile` |
-| [docker-ffmpeg](https://github.com/alfg/docker-ffmpeg) | A Dockerfile FFmpeg from source. Built on Alpine Linux. | `Dockerfile` |
-| [docker-bento4](https://github.com/alfg/docker-bento4) | A dockerized Bento4 from source. Built on Alpine Linux. | `Dockerfile` |
+| [docker-nginx-vod](https://github.com/alfg/docker-nginx-vod) | A Dockerfile for `nginx-vod-module` | `Dockerfile` |
+| [docker-ffmpeg](https://github.com/alfg/docker-ffmpeg) | A Dockerfile for FFmpeg from source. Built on Alpine Linux. | `Dockerfile` |
+| [docker-bento4](https://github.com/alfg/docker-bento4) | A Dockerfile for Bento4 from source. Built on Alpine Linux. | `Dockerfile` |
 | | |
 | 🛠 **CLI TOOLS** |  |
 | [bifextract](https://github.com/alfg/bifextract) | CLI utility for extracting images from a BIF file. | `Go` |

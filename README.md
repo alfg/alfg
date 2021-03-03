@@ -17,24 +17,24 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | [Media Cast](https://github.com/alfg/mediacast) | Google Cast - Chrome Sender & CAF Test Player | `JavaScript` |
 | | |
 | 📗 **LIBRARIES** |  |
-| [mp4-rust](https://github.com/alfg/mp4-rust) | MP4 reader + writer |
-| [mp4](https://github.com/alfg/mp4) | Basic MP4 reader in Go! |
+| [mp4-rust](https://github.com/alfg/mp4-rust) | MP4 reader + writer | `Rust` |
+| [mp4](https://github.com/alfg/mp4) | Basic MP4 reader in Go! | `Go` |
 | 🎬 **PLATFORM** | |
-| [Open Encoder](https://github.com/alfg/openencoder) | Open Source Cloud Encoding Platform in [Go](https://golang.org/) + [Vue.js](https://vuejs.org/). |
-| [widevine](https://github.com/alfg/widevine) | Golang Client for Widevine Cloud |
+| [Open Encoder](https://github.com/alfg/openencoder) | Open Source Cloud Encoding Platform in [Go](https://golang.org/) + [Vue.js](https://vuejs.org/). | `Go` `JavaScript` |
+| [widevine](https://github.com/alfg/widevine) | Golang Client for Widevine Cloud | `Go`
 | | |
 | 🐳 **DOCKER** |  |
-| [docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp) |  A Dockerfile for nginx-rtmp-module. |
-| [docker-nginx-vod](https://github.com/alfg/docker-nginx-vod) | A Dockerized NGINX build of the nginx-vod-module |
-| [docker-ffmpeg](https://github.com/alfg/docker-ffmpeg) | A Dockerfile FFmpeg from source. Built on Alpine Linux. |
-| [docker-bento4](https://github.com/alfg/docker-bento4) | A dockerized Bento4 from source. Built on Alpine Linux. |
+| [docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp) |  A Dockerfile for nginx-rtmp-module. | `Dockerfile` |
+| [docker-nginx-vod](https://github.com/alfg/docker-nginx-vod) | A Dockerized NGINX build of the nginx-vod-module | `Dockerfile` |
+| [docker-ffmpeg](https://github.com/alfg/docker-ffmpeg) | A Dockerfile FFmpeg from source. Built on Alpine Linux. | `Dockerfile` |
+| [docker-bento4](https://github.com/alfg/docker-bento4) | A dockerized Bento4 from source. Built on Alpine Linux. | `Dockerfile` |
 | | |
 | 🛠 **CLI TOOLS** |  |
-| [bifextract](https://github.com/alfg/bifextract) | CLI utility for extracting images from a BIF file. |
+| [bifextract](https://github.com/alfg/bifextract) | CLI utility for extracting images from a BIF file. | `Go` |
 | | |
 | 📜 **GUIDES** |  |
-| [mp4-intro](https://github.com/alfg/mp4intro) |  [WIP] A technical intro the MP4 container byte structure. |
-| [FFmpeg for Instagram](https://gist.github.com/alfg/1fb80cd89c70602c0291e5743c5df9cd) |  A guide and collection of FFmpeg scripts for encoding video for Instagram. |
+| [mp4-intro](https://github.com/alfg/mp4intro) |  [WIP] A technical intro the MP4 container byte structure. | `Markdown` |
+| [FFmpeg for Instagram](https://gist.github.com/alfg/1fb80cd89c70602c0291e5743c5df9cd) |  A guide and collection of FFmpeg scripts for encoding video for Instagram. | `Markdown` |
 
 **🍸 Looking for a drink recipe?** Check out [Open Drinks](https://opendrinks.io/)!
 

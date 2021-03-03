@@ -8,17 +8,17 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 
 #### 🎥 Multimedia Projects
 | Project | Description | Language |
-| --- | --- | --- |
+| - | - | - |
 | 🌎 **WEB** |  |
-| [MP4 Inspector](https://github.com/alfg/mp4-inspector) | A Web-based MP4 File Inspector. | `Rust` `JavaScript` `Wasm` |
+| [MP4 Inspector](https://github.com/alfg/mp4-inspector) | A Web-based MP4 File Inspector. | `Rust` `Wasm` |
 | [FFmpeg Commander](https://github.com/alfg/ffmpeg-commander) | [FFmpeg](https://ffmpeg.org/) Command Builder. | `JavaScript` |
-| [FFProbe Wasm](https://github.com/alfg/ffprobe-wasm) | A Web-based FFProbe. Powered by FFmpeg, Vue and Web Assembly! | `C++` `JavaScript` `Wasm` |
+| [FFProbe Wasm](https://github.com/alfg/ffprobe-wasm) | A Web-based FFProbe. | `C++` `Wasm` |
 | [Vue Player](https://github.com/alfg/vue-player) | Adaptive Streaming Test Player | `JavaScript` |
-| [Media Cast](https://github.com/alfg/mediacast) | Google Cast - Chrome Sender & CAF Player for testing Media Playback | `JavaScript` |
+| [Media Cast](https://github.com/alfg/mediacast) | Google Cast - Chrome Sender & CAF Test Player | `JavaScript` |
 | | |
 | 📗 **LIBRARIES** |  |
-| [mp4-rust](https://github.com/alfg/mp4-rust) | MP4 reader + writer in [Rust](https://www.rust-lang.org/)! :crab: |
-| [mp4](https://github.com/alfg/mp4) | Basic MP4 reader in Go! CLI + Golang Package for ISO/IEC 14496-12 - ISO Base Media File Format |
+| [mp4-rust](https://github.com/alfg/mp4-rust) | MP4 reader + writer |
+| [mp4](https://github.com/alfg/mp4) | Basic MP4 reader in Go! |
 | 🎬 **PLATFORM** | |
 | [Open Encoder](https://github.com/alfg/openencoder) | Open Source Cloud Encoding Platform in [Go](https://golang.org/) + [Vue.js](https://vuejs.org/). |
 | [widevine](https://github.com/alfg/widevine) | Golang Client for Widevine Cloud |

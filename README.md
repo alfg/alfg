@@ -14,7 +14,7 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | [FFProbe Wasm](https://github.com/alfg/ffprobe-wasm) | A Web-based FFProbe. Powered by FFmpeg, Vue and Web Assembly! |
 | [Vue Player](https://github.com/alfg/vue-player) | Adaptive Streaming Test Player |
 | [Media Cast](https://github.com/alfg/mediacast) | Google Cast - Chrome Sender & CAF Player for testing Media Playback |
-
+| | |
 | 📗 Libraries |  |
 | --- | --- |
 | [mp4-rust](https://github.com/alfg/mp4-rust) | MP4 reader + writer in [Rust](https://www.rust-lang.org/)! :crab: |

@@ -16,15 +16,13 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | [Media Cast](https://github.com/alfg/mediacast) | Google Cast - Chrome Sender & CAF Player for testing Media Playback |
 | | |
 | 📗 Libraries |  |
-| --- | --- |
 | [mp4-rust](https://github.com/alfg/mp4-rust) | MP4 reader + writer in [Rust](https://www.rust-lang.org/)! :crab: |
 | [mp4](https://github.com/alfg/mp4) | Basic MP4 reader in Go! CLI + Golang Package for ISO/IEC 14496-12 - ISO Base Media File Format |
 | Platform |
 | [Open Encoder](https://github.com/alfg/openencoder) | Open Source Cloud Encoding Platform in [Go](https://golang.org/) + [Vue.js](https://vuejs.org/). |
 | [widevine](https://github.com/alfg/widevine) | Golang Client for Widevine Cloud |
-
+| | |
 | 🐳 Docker |  |
-| --- | --- |
 | [docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp) |  A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux. |
 | [docker-nginx-vod](https://github.com/alfg/docker-nginx-vod) | A Dockerized NGINX build of the nginx-vod-module |
 | [docker-ffmpeg](https://github.com/alfg/docker-ffmpeg) | A Dockerfile FFmpeg from source. Built on Alpine Linux. |

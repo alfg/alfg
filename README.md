@@ -27,13 +27,11 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | [docker-nginx-vod](https://github.com/alfg/docker-nginx-vod) | A Dockerized NGINX build of the nginx-vod-module |
 | [docker-ffmpeg](https://github.com/alfg/docker-ffmpeg) | A Dockerfile FFmpeg from source. Built on Alpine Linux. |
 | [docker-bento4](https://github.com/alfg/docker-bento4) | A dockerized Bento4 from source. Built on Alpine Linux. |
-
+| | |
 | 🛠 CLI Tools |  |
-| --- | --- |
 | [bifextract](https://github.com/alfg/bifextract) | CLI utility for extracting images from a BIF file. |
-
+| | |
 | 📜 Guides |  |
-| --- | --- |
 | [mp4-intro](https://github.com/alfg/mp4intro) |  [WIP] A technical intro the MP4 container byte structure. |
 | [FFmpeg for Instagram](https://gist.github.com/alfg/1fb80cd89c70602c0291e5743c5df9cd) |  A guide and collection of FFmpeg scripts for encoding video for Instagram. |
 

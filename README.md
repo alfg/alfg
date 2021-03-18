@@ -30,6 +30,7 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | [docker-bento4](https://github.com/alfg/docker-bento4) | A Dockerfile for Bento4 from source. Built on Alpine Linux. | `Dockerfile` |
 | | |
 | 🛠 **CLI TOOLS** |  |
+| [ffmpegd](https://github.com/alfg/ffmpegd) | FFmpeg websocket server for [FFmpeg Commander](https://github.com/alfg/ffmpeg-commander). | `Go` |
 | [bifextract](https://github.com/alfg/bifextract) | CLI utility for extracting images from a BIF file. | `Go` |
 | | |
 | 📜 **GUIDES** |  |

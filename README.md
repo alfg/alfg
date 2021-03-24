@@ -4,16 +4,17 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 
 🛠️ [FFmpeg Commander](https://alfg.github.io/ffmpeg-commander) &mdash; FFmpeg Command Generator Web UI 
 
-🎧 [GuildBit](https://guildbit.com) &mdash; Free Mumble Hosting
+🎧 [GuildBit.com](https://guildbit.com) &mdash; Free Mumble Hosting
 
 📺 [SpotlistTV](https://spotlist-tv.herokuapp.com) &mdash; Play Spotify Playlists on YouTube!
 
-**🍸 Looking for a drink recipe?** Check out [Open Drinks](https://opendrinks.io/)!
+**🍸 Looking for a drink recipe?** Check out [OpenDrinks.io](https://opendrinks.io/)!
 
 <details>
 <summary>🚀 Check out more of my latest open source projects here!</summary>
 <p>
-
+  
+### 🎥 Multimedia Projects
 | Project | Description | Language |
 | - | - | - |
 | 🌎 **WEB** |  |

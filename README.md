@@ -8,8 +8,6 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 
 **🍸 Looking for a drink recipe?** Check out [Open Drinks](https://opendrinks.io/)!
 
-🚀 Check out some of my latest open source projects!
-
 <details>
 <summary>🚀 Check out some of my latest open source projects!</summary>
 <p>

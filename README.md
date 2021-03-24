@@ -9,6 +9,11 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 **🍸 Looking for a drink recipe?** Check out [Open Drinks](https://opendrinks.io/)!
 
 🚀 Check out some of my latest open source projects!
+
+<details>
+<summary>🚀 Check out some of my latest open source projects!</summary>
+<p>
+
 | Project | Description | Language |
 | - | - | - |
 | 🌎 **WEB** |  |
@@ -39,5 +44,6 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | [mp4-intro](https://github.com/alfg/mp4-intro) |  [WIP] A technical intro the MP4 container byte structure. | `Markdown` |
 | [FFmpeg for Instagram](https://gist.github.com/alfg/1fb80cd89c70602c0291e5743c5df9cd) |  A guide and collection of FFmpeg scripts for encoding video for Instagram. | `Markdown` |
 
-
+</p>
+</details>
 

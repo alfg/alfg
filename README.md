@@ -2,6 +2,8 @@
 
 Open Source Software enthusiast specializing in streaming multimedia technologies, currently working as a Software Architect on the Content Engineering team at [Fandango](https://www.fandango.com/).
 
+🛠️ [FFmpeg Commander](https://alfg.github.io/ffmpeg-commander) &mdash; FFmpeg Command Generator Web UI 
+
 🎧 [GuildBit](https://guildbit.com) &mdash; Free Mumble Hosting
 
 📺 [SpotlistTV](https://spotlist-tv.herokuapp.com) &mdash; Play Spotify Playlists on YouTube!
@@ -9,7 +11,7 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 **🍸 Looking for a drink recipe?** Check out [Open Drinks](https://opendrinks.io/)!
 
 <details>
-<summary>🚀 Check out some of my latest open source projects!</summary>
+<summary>🚀 Check out more of my latest open source projects here!</summary>
 <p>
 
 | Project | Description | Language |

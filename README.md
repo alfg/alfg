@@ -2,11 +2,13 @@
 
 Open Source Software enthusiast specializing in streaming multimedia technologies, currently working as a Software Architect on the Content Engineering team at [Fandango](https://www.fandango.com/).
 
-🎧 Creator and maintainer of [GuildBit &mdash; Free Mumble Hosting](https://guildbit.com).
+🎧 [GuildBit](https://guildbit.com) &mdash; Free Mumble Hosting
+
+📺 [SpotlistTV](https://spotlist-tv.herokuapp.com) &mdash; Play Spotify Playlists on YouTube!
+
+**🍸 Looking for a drink recipe?** Check out [Open Drinks](https://opendrinks.io/)!
 
 🚀 Check out some of my latest open source projects!
-
-### 🎥 Multimedia Projects
 | Project | Description | Language |
 | - | - | - |
 | 🌎 **WEB** |  |
@@ -37,5 +39,5 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | [mp4-intro](https://github.com/alfg/mp4-intro) |  [WIP] A technical intro the MP4 container byte structure. | `Markdown` |
 | [FFmpeg for Instagram](https://gist.github.com/alfg/1fb80cd89c70602c0291e5743c5df9cd) |  A guide and collection of FFmpeg scripts for encoding video for Instagram. | `Markdown` |
 
-**🍸 Looking for a drink recipe?** Check out [Open Drinks](https://opendrinks.io/)!
+
 

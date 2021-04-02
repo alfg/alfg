@@ -6,8 +6,6 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 
 🎧 [GuildBit.com](https://guildbit.com) &mdash; Free Mumble VOIP Hosting
 
-📺 [SpotlistTV](https://spotlist-tv.herokuapp.com) &mdash; Play Spotify Playlists on YouTube!
-
 **🍸 Looking for a drink recipe?** Check out [OpenDrinks.io](https://opendrinks.io/)! Inspired by 🎃 [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!
 
 <details>

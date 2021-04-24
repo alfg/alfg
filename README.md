@@ -18,7 +18,7 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | 🌎 **WEB** |  |
 | [MP4 Inspector](https://github.com/alfg/mp4-inspector) | A Web-based MP4 File Inspection Tool. | `Rust` `Wasm` |
 | [FFmpeg Commander](https://github.com/alfg/ffmpeg-commander) | [FFmpeg](https://ffmpeg.org/) Command Builder. | `JavaScript` |
-| [FFProbe Wasm](https://github.com/alfg/ffprobe-wasm) | A Web-based FFProbe. | `C++` `Wasm` |
+| [FFProbe Wasm](https://github.com/alfg/ffprobe-wasm) | A Web-based FFProbe. | `C++` `Wasm` `JavaScript` |
 | [Filtergrapher](https://github.com/alfg/filtergrapher) | FFmpeg filtergraph editor in the browser. | `C++` `Wasm` `JavaScript` |
 | [ABR Player](https://github.com/alfg/abr-player) | Adaptive Streaming Test Player | `JavaScript` |
 | [Media Cast](https://github.com/alfg/mediacast) | Google Cast - Chrome Sender & CAF Test Player | `JavaScript` |

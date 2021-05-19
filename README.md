@@ -42,7 +42,7 @@ Open Source Software enthusiast specializing in streaming multimedia technologie
 | [bifextract](https://github.com/alfg/bifextract) | CLI utility for extracting images from a BIF file. | `Go` |
 | | |
 | 📜 **GUIDES** |  |
-| [A Quick Dive into MP4](https://github.com/alfg/quick-dive-into-mp4) |  [WIP] A technical intro the MP4 container byte structure. | `Markdown` |
+| [A Quick Dive into MP4](https://github.com/alfg/quick-dive-into-mp4) |  A technical intro the MP4 container byte structure. | `Markdown` |
 | [FFmpeg for Instagram](https://gist.github.com/alfg/1fb80cd89c70602c0291e5743c5df9cd) |  A guide and collection of FFmpeg scripts for encoding video for Instagram. | `Markdown` |
 
 </p>

@@ -6,6 +6,8 @@ I'm an Open Source Software enthusiast specializing in streaming multimedia tech
 
 🎧 [GuildBit.com](https://guildbit.com) &mdash; Free Mumble VOIP Hosting
 
+📝 [dev.to/alfg](https://dev.to/alfg) &mdash; Tech Blog
+
 **🍸 Looking for a drink recipe?** Check out [OpenDrinks.io](https://opendrinks.io/)! Inspired by 🎃 [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!
 
 <details>
@@ -43,8 +45,8 @@ I'm an Open Source Software enthusiast specializing in streaming multimedia tech
 | | |
 | 📜 **GUIDES** |  |
 | [A Quick Dive into MP4](https://github.com/alfg/quick-dive-into-mp4) |  A technical intro the MP4 container byte structure. | `Markdown` |
-| [FFmpeg for Instagram](https://gist.github.com/alfg/1fb80cd89c70602c0291e5743c5df9cd) |  A guide and collection of FFmpeg scripts for encoding video for Instagram. | `Markdown` |
-
+| [FFmpeg + WebAssembly](https://dev.to/alfg/ffmpeg-webassembly-2cbl) |  FFmpeg and WebAssembly in the browser. | `Markdown` |
+| [FFmpeg for Instagram](https://dev.to/alfg/ffmpeg-for-instagram-35bi) |  A guide and collection of FFmpeg scripts for encoding video for Instagram. | `Markdown` |
 </p>
 </details>
 

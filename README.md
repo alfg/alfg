@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm an Open Source Software enthusiast specializing in streaming multimedia technologies, currently working as a Software Architect on the Video Engineering teams at [Fandango](https://www.fandango.com/) and [PeacockTV](https://www.peacocktv.com)!
+I'm an Open Source Software enthusiast specializing in streaming multimedia technologies, currently working as a Software Architect on the Video Engineering team at [PeacockTV](https://www.peacocktv.com)!
 
 🛠️ [FFmpeg Commander](https://alfg.github.io/ffmpeg-commander) &mdash; FFmpeg Command Generator
 

@@ -1,4 +1,4 @@
-Open Source Software enthusiast specializing in streaming multimedia technologies, currently working as a Software Architect on the Video Engineering teams at [NBCUniversal](https://www.nbcuniversal.com/), [SkyUK]([SkyUK](https://www.sky.com)), and [PeacockTV](https://www.peacocktv.com)!
+Open Source Software enthusiast specializing in streaming multimedia technologies, currently working as a Software Architect on the Video Engineering teams at [NBCUniversal](https://www.nbcuniversal.com/), [SkyUK](https://www.sky.com), and [PeacockTV](https://www.peacocktv.com)!
 
 🛠️ [FFmpeg Commander](https://alfg.github.io/ffmpeg-commander) &mdash; FFmpeg Command Generator
 

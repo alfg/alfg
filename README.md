@@ -1,12 +1,16 @@
-### Hi 👋
-
-I'm an Open Source Software enthusiast specializing in streaming multimedia technologies, currently working as a Software Architect on the Video Engineering team at [PeacockTV](https://www.peacocktv.com)!
+Open Source Software enthusiast specializing in streaming multimedia technologies, currently working as a Software Architect on the Video Engineering teams at [NBCUniversal](https://www.nbcuniversal.com/), [SkyUK]([SkyUK](https://www.sky.com)), and [PeacockTV](https://www.peacocktv.com)!
 
 🛠️ [FFmpeg Commander](https://alfg.github.io/ffmpeg-commander) &mdash; FFmpeg Command Generator
 
-🎧 [GuildBit.com](https://guildbit.com) &mdash; Free Mumble VOIP Hosting
+📺 [MP4 Rust](https://github.com/alfg/mp4-rust) &mdash; MP4 Library for Rust
+
+🎥 [OpenEncoder](https://github.com/alfg/openencoder) &mdash; Video Encoding Platform powered by FFmpeg
 
 📝 [dev.to/alfg](https://dev.to/alfg) &mdash; Tech Blog
+
+<img src="https://github.com/user-attachments/assets/ef8588e3-8d51-42e1-a36a-6aeef2174fe4" width="16"></img> [alfg.dev](http://alfg.dev) &mdash; Profile Website
+
+<img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width="16"></img>  [LinkedIn](https://www.linkedin.com/in/gutierrezalfred/) &mdash; My LinkedIn
 
 **🍸 Looking for a drink recipe?** Check out [OpenDrinks.io](https://opendrinks.io/)! Inspired by 🎃 [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!
 

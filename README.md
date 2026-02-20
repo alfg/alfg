@@ -1,6 +1,6 @@
 Open Source Software enthusiast specializing in streaming multimedia technologies. Based in Tokyo, Japan.
 
-⚠️ Coming soon!
+#### Check out my latest project!
 [Video Commander](https://video-commander.com) &mdash; Pro Media Tools for Video Engineers
 
 

@@ -1,62 +1,54 @@
-Open Source Software enthusiast specializing in streaming multimedia technologies. Based in Tokyo, Japan.
+# Alfred Gutierrez
 
-#### Check out my latest project!
-[Video Commander](https://video-commander.com) &mdash; Pro Media Tools for Video Engineers
+**Software Architect & Principal Engineer** · Tokyo, Japan
 
+Building open source tools for video engineers and multimedia developers.  
+15+ years in distributed systems, cloud infrastructure, and streaming technology.
 
-## Recent Projects
-🛠️ [FFmpeg Commander](https://alfg.github.io/ffmpeg-commander) &mdash; FFmpeg Command Generator
+---
 
-📺 [MP4 Rust](https://github.com/alfg/mp4-rust) &mdash; MP4 Library for Rust
+## 🎬 Video Commander
 
-🎥 [OpenEncoder](https://github.com/alfg/openencoder) &mdash; Video Encoding Platform powered by FFmpeg
+> **Pro media tools for video engineers.**
 
-## Let's Connect!
-📝 [dev.to/alfg](https://dev.to/alfg) &mdash; Tech Blog
+[video-commander.com](https://video-commander.com) — A desktop application for media engineers built with Rust, Tauri, and React. Designed for professionals working with video encoding, inspection, and processing workflows.
 
-<img src="https://github.com/user-attachments/assets/ef8588e3-8d51-42e1-a36a-6aeef2174fe4" width="16"></img> [alfg.dev](http://alfg.dev) &mdash; Profile Website
+---
 
-<img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width="16"></img>  [LinkedIn](https://www.linkedin.com/in/gutierrezalfred/) &mdash; My LinkedIn
+## Open Source Projects
 
-**🍸 Looking for a drink recipe?** Check out [OpenDrinks.io](https://opendrinks.io/)! Inspired by 🎃 [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!
+### Multimedia
 
-<details>
-<summary>🚀 Check out more of my latest open source projects here! [click to expand]</summary>
-<p>
-  
-### 🎥 Multimedia Projects
-| Project | Description | Language |
-| - | - | - |
-| 🌎 **WEB** |  |
-| [MP4 Inspector](https://github.com/alfg/mp4-inspector) | A Web-based MP4 File Inspection Tool. | `Rust` `Wasm` |
-| [FFmpeg Commander](https://github.com/alfg/ffmpeg-commander) | [FFmpeg](https://ffmpeg.org/) Command Builder. | `JavaScript` |
-| [FFProbe Wasm](https://github.com/alfg/ffprobe-wasm) | A Web-based FFProbe. | `C++` `Wasm` `JavaScript` |
-| [Filtergrapher](https://github.com/alfg/filtergrapher) | FFmpeg filtergraph editor in the browser. | `C++` `Wasm` `JavaScript` |
-| [ABR Player](https://github.com/alfg/abr-player) | Adaptive Streaming Test Player | `JavaScript` |
-| [Media Cast](https://github.com/alfg/mediacast) | Google Cast - Chrome Sender & CAF Test Player | `JavaScript` |
-| [PBM Viewer](https://github.com/alfg/pbm-viewer) | A Web-based PBM Image Viewer. | `JavaScript` |
-| | |
-| 📙 **LIBRARIES** |  |
-| [mp4-rust](https://github.com/alfg/mp4-rust) | MP4 reader + writer Rust crate. | `Rust` |
-| [mp4](https://github.com/alfg/mp4) | MP4 reader Go package. | `Go` |
-| [widevine](https://github.com/alfg/widevine) | Golang package for Widevine Cloud. | `Go`
-| 🎬 **PLATFORM** | |
-| [Open Encoder](https://github.com/alfg/openencoder) | Open Source Cloud Encoding Platform in [Go](https://golang.org/) + [Vue.js](https://vuejs.org/). | `Go` `JavaScript` |
-| | |
-| 🐳 **DOCKER** |  |
-| [docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp) |  A Dockerfile for nginx-rtmp-module. | `Dockerfile` |
-| [docker-nginx-vod](https://github.com/alfg/docker-nginx-vod) | A Dockerfile for `nginx-vod-module` | `Dockerfile` |
-| [docker-ffmpeg](https://github.com/alfg/docker-ffmpeg) | A Dockerfile for FFmpeg from source. Built on Alpine Linux. | `Dockerfile` |
-| [docker-bento4](https://github.com/alfg/docker-bento4) | A Dockerfile for Bento4 from source. Built on Alpine Linux. | `Dockerfile` |
-| | |
-| 🛠 **CLI TOOLS** |  |
-| [ffmpegd](https://github.com/alfg/ffmpegd) | FFmpeg websocket server for [FFmpeg Commander](https://github.com/alfg/ffmpeg-commander). | `Go` |
-| [bifextract](https://github.com/alfg/bifextract) | CLI utility for extracting images from a BIF file. | `Go` |
-| | |
-| 📜 **GUIDES** |  |
-| [A Quick Dive into MP4](https://github.com/alfg/quick-dive-into-mp4) |  A technical intro the MP4 container byte structure. | `Markdown` |
-| [FFmpeg + WebAssembly](https://dev.to/alfg/ffmpeg-webassembly-2cbl) |  FFmpeg and WebAssembly in the browser. | `Markdown` |
-| [FFmpeg for Instagram](https://dev.to/alfg/ffmpeg-for-instagram-35bi) |  A guide and collection of FFmpeg scripts for encoding video for Instagram. | `Markdown` |
-</p>
-</details>
+| Project | Description | Stack |
+| --- | --- | --- |
+| [FFmpeg Commander](https://alfg.github.io/ffmpeg-commander) | FFmpeg command builder | `JavaScript` |
+| [mp4-rust](https://github.com/alfg/mp4-rust) | MP4 reader + writer library | `Rust` |
+| [MP4 Inspector](https://github.com/alfg/mp4-inspector) | Web-based MP4 file inspection tool | `Rust` `Wasm` |
+| [FFProbe Wasm](https://github.com/alfg/ffprobe-wasm) | Web-based FFProbe | `C++` `Wasm` |
+| [Filtergrapher](https://github.com/alfg/filtergrapher) | FFmpeg filtergraph editor | `C++` `Wasm` |
+| [OpenEncoder](https://github.com/alfg/openencoder) | Cloud video encoding platform | `Go` `JavaScript` |
+| [ABR Player](https://github.com/alfg/abr-player) | Adaptive streaming test player | `JavaScript` |
+| [mp4](https://github.com/alfg/mp4) | MP4 reader library | `Go` |
+| [widevine](https://github.com/alfg/widevine) | Widevine Cloud package | `Go` |
 
+### Infrastructure
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp) | nginx-rtmp-module container | `Dockerfile` |
+| [docker-nginx-vod](https://github.com/alfg/docker-nginx-vod) | nginx-vod-module container | `Dockerfile` |
+| [docker-ffmpeg](https://github.com/alfg/docker-ffmpeg) | FFmpeg from source on Alpine | `Dockerfile` |
+| [docker-bento4](https://github.com/alfg/docker-bento4) | Bento4 from source on Alpine | `Dockerfile` |
+| [ffmpegd](https://github.com/alfg/ffmpegd) | FFmpeg WebSocket server for FFmpeg Commander | `Go` |
+
+---
+
+## Writing
+
+[dev.to/alfg](https://dev.to/alfg) — Articles on FFmpeg, WebAssembly, multimedia engineering, and more.
+
+---
+
+## Links
+
+[alfg.dev](http://alfg.dev) · [LinkedIn](https://www.linkedin.com/in/gutierrezalfred/) · [video-commander.com](https://video-commander.com)

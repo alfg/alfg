@@ -32,6 +32,7 @@ Building open source tools for video engineers and multimedia developers.
 | [ABR Player](https://github.com/alfg/abr-player) | Adaptive streaming test player | `JavaScript` |
 | [mp4](https://github.com/alfg/mp4) | MP4 reader library | `Go` |
 | [widevine](https://github.com/alfg/widevine) | Widevine Cloud package | `Go` |
+| [ffmpegd](https://github.com/alfg/ffmpegd) | FFmpeg WebSocket server for FFmpeg Commander | `Go` |
 
 ### Infrastructure
 
@@ -41,7 +42,6 @@ Building open source tools for video engineers and multimedia developers.
 | [docker-nginx-vod](https://github.com/alfg/docker-nginx-vod) | nginx-vod-module container | `Dockerfile` |
 | [docker-ffmpeg](https://github.com/alfg/docker-ffmpeg) | FFmpeg from source on Alpine | `Dockerfile` |
 | [docker-bento4](https://github.com/alfg/docker-bento4) | Bento4 from source on Alpine | `Dockerfile` |
-| [ffmpegd](https://github.com/alfg/ffmpegd) | FFmpeg WebSocket server for FFmpeg Commander | `Go` |
 
 ---
 

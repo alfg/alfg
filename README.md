@@ -11,7 +11,7 @@ Building open source tools for video engineers and multimedia developers.
 
 ## 🎬 Video Commander
 
-> **Pro media tools for video engineers.**
+> **The IDE for Video Engineers.**
 
 [video-commander.com](https://video-commander.com) — A desktop application for media engineers built with Rust, Tauri, and React. Designed for professionals working with video encoding, inspection, and processing workflows.
 
